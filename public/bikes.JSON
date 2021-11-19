@@ -1,0 +1,72 @@
+[
+    {
+        "Name": "Honda Shine",
+        "key": 1,
+        "Price": "Rs. 73,352",
+        "Image": "https://media.zigcdn.com/media/model/2020/Feb/shine_600x400.jpg",
+        "Description": "Engine 124 cc. Emission type BS6. Kerb weight 115kg. Max power 10.74 bhp. No ABS."
+    },
+    {
+        "Name": "Honda Activa 6G",
+        "key": 2,
+        "Price": "Rs. 69,645",
+        "Image": "https://media.zigcdn.com/media/model/2020/Jun/honda-activa-6g_600x400.jpg",
+        "Description": "Engine 109 cc. Emission type BS6. Kerb weight 107 Kg. Max power 7.79 bhp. No ABS."
+    },
+    {
+        "Name": "Honda SP 125",
+        "key": 3,
+        "Price": "Rs. 78,947 ",
+        "Image": "https://media.zigcdn.com/media/model/2019/Nov/sp-125-right-side-view_600x400.jpg",
+        "Description": "Engine 124 cc. Emission type BS6. Kerb weight 118 Kg. Max power 10.8 bhp. "
+    },
+    {
+        "Name": "Honda Dio",
+        "key": 4,
+        "Price": "Rs. 65,075",
+        "Image": "https://media.zigcdn.com/media/model/2021/Aug/honda-dio-bs6-abc-right-side-view_600x400.jpg",
+        "Description": "Engine 109 cc. Emission type BS6. Kerb weight 103 Kg. Max power 7.76 bhp. No ABS."
+    },
+    {
+        "Name": "Honda Activa 125",
+        "key": 5,
+        "Price": "Rs. 73,203 ",
+        "Image": "https://media.zigcdn.com/media/model/2019/Sep/2019-activa-125-right-side-view_600x400.jpg",
+        "Description": "Engine 124 cc. Emission type BS6. Kerb weight 111 Kg. Max power 8.29 bhp. No ABS."
+    },
+    {
+        "Name": "Honda Hness CB350",
+        "key": 6,
+        "Price": "Rs. 196000",
+        "Image": "https://media.zigcdn.com/media/model/2021/Apr/honda-hness-cb350-qwe_600x400.jpg",
+        "Description": "Engine 348 cc. Emission type BS6. Kerb weight 181 Kg. Max power 21.07 bhp. Dual Channel ABS."
+    },
+    {
+        "Name": "Honda Hornet 2.0",
+        "key": 7,
+        "Price": "Rs. 135000",
+        "Image": "https://media.zigcdn.com/media/model/2021/Apr/honda-hornet-awed_600x400.jpg",
+        "Description": "Engine 184 cc. Emission type BS6. Kerb weight 142 Kg. Max power 17.26 bhp. Single Channel ABS."
+    },
+    {
+        "Name": "Honda Unicorn",
+        "key": 8,
+        "Price": "Rs. 99,987 ",
+        "Image": "https://media.zigcdn.com/media/model/2020/Feb/honda-unicorn-bs-vi-right-side-view_600x400.jpg",
+        "Description": "Engine 162 cc. Emission type BS6. Kerb weight 140 Kg. Max power 12.91 bhp. Single Channel ABS."
+    },
+    {
+        "Name": "Honda Livo BS6",
+        "key": 9,
+        "Price": "Rs. 74,583",
+        "Image": "https://media.zigcdn.com/media/model/2020/Jun/livo-bs6_600x400.jpg",
+        "Description": "Engine 109 cc. Emission type BS6. Kerb weight 114 Kg. Max power 8.79 bhp. No ABS."
+    },
+    {
+        "Name": "Honda CD 110 Dream",
+        "key": 10,
+        "Price": "Rs. 66,033",
+        "Image": "https://media.zigcdn.com/media/model/2020/Jun/honda-cd-dream-110-bs6-b_600x400.jpg",
+        "Description": "Engine 109 cc. Emission type BS6. Kerb weight 112 Kg. Max power 8.79 bhp. No ABS."
+    }
+]
