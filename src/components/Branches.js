@@ -1,6 +1,6 @@
 import { ListGroup } from "react-bootstrap";
 
-const Offers = () => {
+const Branches = () => {
     return (
         <div className="container-fluid">
             <h1>List of Our Branches:</h1>
@@ -17,4 +17,4 @@ const Offers = () => {
         </div>
     )
 }
-export default Offers;
+export default Branches;

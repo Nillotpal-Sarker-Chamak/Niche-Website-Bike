@@ -1,6 +1,6 @@
 import useAuth from "../hooks/useAuth";
+import Branches from "./Branches";
 import Gallery from "./Gallery";
-import Offers from "./Offers";
 import Products from "./Products";
 import Reviews from "./Reviews";
 
@@ -13,7 +13,7 @@ const Home = () => {
             <TopBanner></TopBanner>
             <Products></Products>
             <Reviews></Reviews>
-            <Offers></Offers>
+            <Branches></Branches>
         </div>
     )
 }
